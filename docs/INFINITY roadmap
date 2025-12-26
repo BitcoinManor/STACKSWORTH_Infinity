@@ -1,0 +1,116 @@
+# STACKSWORTH Infinity  
+### 10″ Touchscreen Bitcoin Node & Hub Dashboard
+
+**STACKSWORTH Infinity** is the flagship 10-inch model in the StacksWorth lineup — a self-contained Bitcoin node and BitAxe hub running on a Raspberry Pi 4 or 5 with a full-color capacitive touchscreen display.
+
+It unites **StacksWorth’s signature dashboard UI**, **local data services**, and **BitAxe integration** into one powerful, always-on Bitcoin appliance.
+
+---
+
+## ⚡ Vision
+
+Infinity is designed to be the **heart of a sovereign Bitcoin environment** — a local hub that runs a full node, connects to BitAxe miners, and displays Bitcoin’s live pulse through the same StacksWorth UI language used across **Matrix** and **Spark**.
+
+All data is sourced locally whenever possible.  
+No cloud dependency.  
+No third-party dashboards.  
+Just Bitcoin — visualized.
+
+---
+
+## 🧠 System Overview
+
+| Layer | Purpose |
+|-----|--------|
+| **StacksWorth Hub (`stx-hub`)** | Local Python FastAPI service exposing unified JSON endpoints for Bitcoin, BitAxe, and system metrics |
+| **StacksWorth UI** | Fullscreen HTML / CSS / JS dashboard rendered in Chromium kiosk mode |
+| **Bitcoin Node** | Native `bitcoind` running on SSD; primary blockchain and mempool source |
+| **BitAxe Integration** | Local polling of BitAxe devices for hashrate, temperature, shares, and status |
+| **Host System** | Raspberry Pi OS Lite (64-bit) optimized for kiosk and node workloads |
+
+---
+
+## 🧩 Core Features (Planned)
+
+- 🟧 10″ capacitive touchscreen dashboard (landscape)
+- 🟧 Full Bitcoin Core node (SSD-backed)
+- 🟧 Local FastAPI data hub
+- 🟧 BitAxe fleet monitoring
+- 🟧 Chromium kiosk-mode UI
+- 🟧 Unified StacksWorth visual language
+- 🟧 Zero cloud dependency (optional external APIs only)
+
+---
+
+## 🛠 Hardware Baseline
+
+**Target Platform**
+- Raspberry Pi 4 (4GB / 8GB) or Raspberry Pi 5
+- 10″ HDMI capacitive touchscreen (1280×800 or higher)
+- NVMe or USB SSD for blockchain data
+- Passive or low-noise active cooling
+- Custom StacksWorth enclosure (3D printed or CNC)
+
+---
+
+## 🧪 Phase-Based Build Plan
+
+### Phase 1 — Foundation
+- [ ] Raspberry Pi OS Lite (64-bit)
+- [ ] SSD mount and `fstab` configuration
+- [ ] Bitcoin Core install and sync
+- [ ] SSH access and firewall hardening
+
+### Phase 2 — StacksWorth Hub
+- [ ] FastAPI service scaffold
+- [ ] Local endpoints (`/price`, `/height`, `/fees`, `/miner`, `/bitaxe`)
+- [ ] System health metrics
+- [ ] Local caching and rate limiting
+
+### Phase 3 — UI Dashboard
+- [ ] Fullscreen Chromium kiosk
+- [ ] Responsive 10″ layout
+- [ ] Touch-first navigation
+- [ ] Match Spark UI design language
+
+### Phase 4 — BitAxe Integration
+- [ ] Local BitAxe discovery
+- [ ] Hashrate, temperature, and shares
+- [ ] Multi-device overview
+- [ ] Alerts and status indicators
+
+### Phase 5 — Polish & Hardening
+- [ ] Auto-start all services
+- [ ] Offline and error handling
+- [ ] UI watchdog and recovery
+- [ ] Thermal and power stability testing
+
+---
+
+## 🎯 Design Principles
+
+- **Local-first** — Bitcoin data comes from your node
+- **Consistent UI** — Infinity feels like Spark and Matrix
+- **Appliance-grade** — Power on → dashboard loads
+- **Hackable, not fragile** — Clean, readable architecture
+
+---
+
+## 🚧 Project Status
+
+> **Planning & Architecture Phase**
+
+This document defines the initial build direction for **STACKSWORTH Infinity**.  
+Implementation will proceed incrementally once hardware selection is finalized.
+
+---
+
+## 📌 Notes
+
+- Infinity does **not** power other devices — it can *serve data* to them
+- It is a peer hub, not a dependency
+- Designed for node runners, builders, and serious Bitcoiners
+
+---
+
+© StacksWorth — Where Data Comes to Life
