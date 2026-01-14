@@ -22,3 +22,20 @@ Every metric, visual, and animation you see is powered locally by your own node 
 | **StacksWorth UI (dashboard)** | Responsive HTML / CSS / JS interface rendered fullscreen in Chromium kiosk mode. |
 | **Bitcoin Node** | Native bitcoind running on SSD; source of all blockchain data and mempool metrics. |
 | **BitA**
+
+---
+
+
+## SatoNak API's
+
+- SATONAK API'S
+  - - - [`Satonak Price`](https://www.satonak.bitcoinmanor.com/api/price)
+  - - - [`Satonak Block Height`](https://www.satonak.bitcoinmanor.com/api/height)
+  - - - [`Satonak CAD Price`](https://satonak.bitcoinmanor.com/api/price?fiat=CAD)
+  - - - [`Satonak Fee`](https://satonak.bitcoinmanor.com/api/fee)
+  - - - [`Satonak Hashrate`](https://satonak.bitcoinmanor.com/api/hashrate)
+  - - - [`Satonak Circulating Supply`](https://satonak.bitcoinmanor.com/api/circsupply)
+  - - - [`Satonak Miner`](https://satonak.bitcoinmanor.com/api/miner)
+  - - - [`Satonak 24hr Price Chamge`](https://satonak.bitcoinmanor.com/api/change24h)
+  - - - [`Satonak EUR Price`](https://satonak.bitcoinmanor.com/api/price?fiat=EUR)
+
