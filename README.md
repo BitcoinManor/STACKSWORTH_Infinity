@@ -26,7 +26,7 @@ Every metric, visual, and animation you see is powered locally by your own node 
 ---
 
 
-## SatoNak API's
+## ⚡ SatoNak API's  ⚡
 
 - SATONAK API'S
   - - - [`Satonak Price`](https://www.satonak.bitcoinmanor.com/api/price)
