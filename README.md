@@ -39,3 +39,4 @@ Every metric, visual, and animation you see is powered locally by your own node 
   - - - [`Satonak 24hr Price Chamge`](https://satonak.bitcoinmanor.com/api/change24h)
   - - - [`Satonak EUR Price`](https://satonak.bitcoinmanor.com/api/price?fiat=EUR)
 
+Visit ['BitcoinManor '](https://bitcoinmanor.com) or ['StacksWorth '](stacksworth.com) to buy yours
