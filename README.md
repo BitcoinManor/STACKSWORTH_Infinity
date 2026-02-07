@@ -39,4 +39,10 @@ Every metric, visual, and animation you see is powered locally by your own node 
   - - - [`Satonak 24hr Price Chamge`](https://satonak.bitcoinmanor.com/api/change24h)
   - - - [`Satonak EUR Price`](https://satonak.bitcoinmanor.com/api/price?fiat=EUR)
 
-Visit ['BitcoinManor '](https://bitcoinmanor.com) or ['StacksWorth '](stacksworth.com) to buy yours
+## 🧡 Built by Bitcoin Manor
+
+STACKSWORTH is a family-built Bitcoin hardware project focused on creating clear, purpose-driven displays that make Bitcoin data visible, accessible, and meaningful.
+
+More coming soon.
+Visit [BitcoinManor](https://BitcoinManor.com) or [STACKSWORTH](https://STACKSWORTH.COM)
+to buy yours.
