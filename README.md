@@ -8,7 +8,7 @@ It unites **StacksWorth’s signature dashboard UI**, **local data services**, a
 
 ## ⚡ Vision
 
-Infinity is designed to be the **heart of your Bitcoin environment** — a local, sovereign hub that runs a full node, connects to your BitAxe miners, and broadcasts Bitcoin’s live pulse through the same StacksWorth UI used across Spark and Matrix devices.
+Infinity is designed to be the **heart of your Bitcoin environment** — a local, sovereign hub that runs a full node, connects to your BitAxe miners, and broadcasts Bitcoin’s live pulse through the same StacksWorth UI used across Spark, Pulse, Edge and Matrix devices.
 
 Every metric, visual, and animation you see is powered locally by your own node and presented in a futuristic touch dashboard experience.
 
