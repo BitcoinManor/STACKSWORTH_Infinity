@@ -1,6 +1,14 @@
 # STACKSWORTH Infinity  
 ### 10″ Touchscreen Bitcoin Node & Hub Dashboard
 
+**Open Source • Web Flashable • Bitcoin Metrics Display • Bitcoin at a Glance**
+
+![STACKSWORTH Banner](https://github.com/BitcoinManor/STACKSWORTH_Matrix/raw/main/assets/stacksworth_banner.png)
+
+Welcome to **STACKSWORTH**, the future of open-source Bitcoin displays.  
+
+**This is Bitcoin’s Pulse, at a glance.**
+
 **STACKSWORTH Infinity** is the flagship 10-inch model in the StacksWorth lineup — a self-contained Bitcoin node and BitAxe hub running on a Raspberry Pi 4 or 5 with a full-color capacitive touchscreen display.  
 It unites **StacksWorth’s signature dashboard UI**, **local data services**, and **BitAxe integration** into one powerful, always-on Bitcoin appliance.
 
